@@ -101,7 +101,7 @@ function MyCart({navigation}) {
           borderRadius: 20,
           textAlign: 'center',
           justifyContent: 'center',
-          alignItems: 'center',
+          alignItems: 'right',
         }}
         onPress={() => {
           navigation.navigate('ThankYou');
